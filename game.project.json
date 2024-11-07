@@ -1,0 +1,31 @@
+{
+	"name": "Game",
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"$ignoreUnknownInstances": true,
+			"$path": "src/server"
+		},
+		"ReplicatedStorage": {
+			"$ignoreUnknownInstances": true,
+			"remotes": {
+				"$className": "Folder"
+			},
+			"$path": "src/shared"
+		},
+		"StarterPlayer": {
+			"$ignoreUnknownInstances": true,
+			"StarterPlayerScripts": {
+				"$ignoreUnknownInstances": true,
+				"$path": "src/client"
+			}
+		},
+		"ServerStorage": {
+			"$ignoreUnknownInstances": true,
+			"plugins": {
+				"$ignoreUnknownInstances": true,
+				"$path": "src/plugins"
+			}
+		}
+	}
+}
