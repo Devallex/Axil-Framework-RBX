@@ -1,8 +1,5 @@
 # *PROJECT ARCHIVED*
-This has been archived because Auszi Studios is no longer working with the Roblox engine.
-If anyone, for whatever reason, wants this to be un-archived or have access to the docs, message me (@Devallex) on our Discord server.
-
-Our website and Discord link is [here](https://auszistudios.github.io).
+This has been archived because I no longer use Roblox.
 
 # Overview
 
@@ -19,5 +16,3 @@ Axil-Framework is starting point for creating an object-oriented Roblox game.
 
 It uses [Rojo](https://rojo.space) (or any other similar program) to synchronize code from the filesystem to the Roblox project.
 Use [HotSwap](https://devforum.roblox.com/t/hotswap-plugin-speed-up-plugin-development/10310) to run plugins.
-
-~~***Check out the [docs](https://auszistudios.github.io/Axil-Framework) to learn more.***~~ **(DOCUMENTATION REMOVED)**
